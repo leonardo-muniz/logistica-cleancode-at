@@ -1,4 +1,4 @@
-# 🚀 logistica-cleancode-at: Refatoração de Módulo de Logística (Assessment)
+# 🚀 Portfólio de Clean Code e Boas Práticas: Refatoração de Módulo de Logística - Assessment (AT)
 
 Este projeto consiste na refatoração completa de um módulo legado de gerenciamento de pedidos de entrega em uma empresa de logística. O objetivo principal foi aplicar os princípios de **Clean Code**, **Engenharia de Software**, e **Arquitetura em Camadas** para resolver problemas crônicos de baixo acoplamento, baixa coesão, ausência de validação e rigidez estrutural.
 
